@@ -21,7 +21,7 @@ As a user of this web app you will be able to:
 5. Upvote or downvote a pitch
 6. Comment on a pitch
 7. See comments posted on each individual pitch
-<!-- 8. Edit your profile i.e will be able to add a short bio about yourself and a profile picture -->
+8. Edit your profile i.e will be able to add a short bio about yourself and a profile picture
 
 ## Behavior driven devlopment (BDD)
 
